@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sherkhanrocky
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on music-streaming website
+- 👀 I’m interested in learning data science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me sherkhanrocky@gmail.com
 
 <!---
